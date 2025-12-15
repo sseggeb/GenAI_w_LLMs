@@ -47,7 +47,3 @@ The core objective is to understand how the prompt supplied to the model (a conc
 1.  **Environment Setup:** Ensure you are running on a machine with sufficient resources, as the lab verifies the use of an instance like `ml.m5.2xlarge`.
 2.  **Dependencies:** Run the setup cells to install or upgrade necessary packages, including `tensorflow`, `keras`, `torch`, `datasets`, and `transformers`.
 3.  **Execution:** Run the cells sequentially to load the dataset, model, and tokenizer, and then observe the comparative results of the various prompt engineering techniques.
-
----
-
-Would you like to explore the specifics of any of these prompting techniques, or perhaps look at the code for one of the examples?
